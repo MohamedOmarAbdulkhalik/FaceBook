@@ -1,0 +1,88 @@
+body {
+    background-color: white;
+}
+
+.facebook-logo-div {
+
+    margin: 0 auto 0 auto;
+    padding: 0;
+
+    height: fit-content;
+    width: fit-content;
+}
+
+.facebook-logo {
+    width: 112px;
+}
+
+form {
+    width: 416px;
+    height: 155px;
+    margin: 0 auto;
+}
+
+input {
+    background-color: #e8f0fe;
+    margin: 5px auto;
+    display: block;
+    border-radius: 5px;
+    width: 100%;
+    border-color: rgba(0, 0, 0, .02) rgba(0, 0, 0, .09) rgba(0, 0, 0, .09) rgba(0, 0, 0, .02);
+    height: 42px;
+    box-sizing: border-box;
+    padding: 12px;
+    text-align: right;
+}
+
+.b1 {
+    border-radius: 5px;
+    background-color: #0078f6;
+    width: 100%;
+    height: 42px;
+    border-color: transparent;
+    color: white;
+}
+
+.p1 {
+    color: #0078f6;
+    text-align: center;
+}
+
+.p2 {
+    background-color: white;
+    text-align: center;
+    width: 40px;
+    position: relative;
+    top: -33px;
+    left: 190px;
+    display: inline-block;
+}
+
+.b2 {
+    background-color: #00d300;
+    
+    color: white;
+    border-radius: 5px;
+    width: 50%;
+    margin-left: 65px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+}
+
+.buttom {
+    position: relative;
+    top: 200px;
+    left: 35%;
+}
+.par{
+    color: gray;
+    position: relative;
+    top: 200px;
+    left: 45%;
+}
